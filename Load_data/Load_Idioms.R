@@ -22,7 +22,7 @@ if(urlExists){
   pagecontent <- xpathSApply(doc,xpath,xmlValue)
   total_page <- pagecontent[length(pagecontent)-1]
   
-}
+}  
 
 for(j in 2:total_page)
 {
