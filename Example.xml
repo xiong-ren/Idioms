@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<book>
+  <title lang="en">Harry Potter</title>
+  <author>J K. Rowling</author> 
+  <year>2005</year>
+  <price>29.99</price>
+</book>
+<book>
+  <title lang="cn">R语言编程艺术</title>
+  <author>Matloff</author> 
+  <year>2006</year>
+  <price>50</price>
+</book>
+<book>
+  <title lang="cn">ggplot2：数据分析与图形艺术</title>
+  <author>Wickham</author> 
+  <year>2009</year>
+  <price>45</price>
+</book>
+</bookstore>
