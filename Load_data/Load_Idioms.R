@@ -5,6 +5,7 @@ library(XML)
 library(stringr)
 
 
+
 ##读取首字母为A-z的成语
 for (i in 1:26) {
 urlbase <- "http://tools.2345.com/chengyu/"
